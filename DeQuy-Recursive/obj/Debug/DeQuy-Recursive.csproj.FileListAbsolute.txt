@@ -1,0 +1,7 @@
+C:\Users\CODE\Documents\Visual Studio 2008\Projects\DeQuy-Recursive\DeQuy-Recursive\bin\Debug\DeQuy-Recursive.exe
+C:\Users\CODE\Documents\Visual Studio 2008\Projects\DeQuy-Recursive\DeQuy-Recursive\bin\Debug\DeQuy-Recursive.pdb
+C:\Users\CODE\Documents\Visual Studio 2008\Projects\DeQuy-Recursive\DeQuy-Recursive\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\CODE\Documents\Visual Studio 2008\Projects\DeQuy-Recursive\DeQuy-Recursive\obj\Debug\DeQuy-Recursive.exe
+C:\Users\CODE\Documents\Visual Studio 2008\Projects\DeQuy-Recursive\DeQuy-Recursive\obj\Debug\DeQuy-Recursive.pdb
+D:\WorkStation\GitHub\DeQuy-Recursive\DeQuy-Recursive\obj\Debug\DeQuy-Recursive.exe
+D:\WorkStation\GitHub\DeQuy-Recursive\DeQuy-Recursive\obj\Debug\DeQuy-Recursive.pdb
